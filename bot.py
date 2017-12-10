@@ -15,31 +15,31 @@ from gtts import gTTS
 
 cl = LINETCR.LINE()
 cl.login(token='EmHCNHLKXReR3GUduca1.UlrDCGkj7dxSpRrrWVSpKq.g3vEaSk5iGVvPWOhpgRVkHPpLhOOwoso1OQ5i+27Iuw=')
-#cl.login(token='')
+#cl.login(qr=True)
 cl.loginResult()
 print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 ki.login(token='EmzlLew0XTW8IODPhwRe.7oUShdLcs9TUvO5sMkXNpG.ilwEXwSYByrqIwZgDLnuJ97XA1wVn16Z8shYnSsButY')
-#ki.login(token='')
+#ki.login(qr=True)
 ki.loginResult()
 print "Ki-Login Success\n"
 
 kk = LINETCR.LINE()
 kk.login(token='EmwVS4A5cErcj6NZ939e.uHwIvq3v1iyKQZqnNrhKFG.vllaB0gxYptn8mEr+F0b1/+TSN46FCfTV5Qtm/fEXig=')
-#kk.login(token='')
+#kk.login(qr=True)
 kk.loginResult()
 print "Kk-Login Success\n"
 
 kc = LINETCR.LINE()
 kc.login(token='Em8Uj1MRqCDmBO5XiYu5.T2Obu6kd2POuq9/WqXGtnq.Eaqof4oV8GKOTFkpRESnEuh0odD3CEpkOVmeKezp3N0=')
-#kc.login(token='')
+#kc.login(qr=True)
 kc.loginResult()
 print "Kc-Login Success\n"
 
 kr = LINETCR.LINE()
 kr.login(token='EmLV5twOWfR6ybWCUO0b.sDTrH/zMSMOdJJyRwe3qQW.eJvaeOQigQYb4ukESxrJdzaTHRe1I9LExmgCz5WfzJ4=')
-#kr.login(token='')
+#kr.login(qr=True)
 kr.loginResult()
 print "Kr-Login Success\n\n=====[Sukses All Login]====="
 
